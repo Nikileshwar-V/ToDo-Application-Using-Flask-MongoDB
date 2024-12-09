@@ -1,0 +1,30 @@
+body {
+    background: linear-gradient(to right, #1e3c72, #2a5298);
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin: 10px 0;
+}
+button, a {
+    margin-left: 10px;
+    text-decoration: none;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover, a:hover {
+    background-color: #0056b3;
+}
